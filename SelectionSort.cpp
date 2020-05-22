@@ -1,10 +1,11 @@
 #include<stdio.h>
 
 /*
+selection sort algorithm
+
 재일 작은 숫자를 선택해여 순차적으로 맨 앞으로 보내는 정렬.
 
 간복잡도 O(n2)
-
 
 */
 int main(void){
